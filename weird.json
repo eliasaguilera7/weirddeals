@@ -1,0 +1,45 @@
+{
+"websiteName" : "The top weird products",
+"location" : "Bell Farm 140",
+"phoneNumber" : 705-555-5555, 
+"active" : true,
+"topProducts" : [
+  {
+    "productName" : "Mobile Phone Jail Cell", 
+    "Price" : 10.89,
+    "origin" : "China", 
+    "description" : [
+      "Phone-addicts beware: you need a key to open up the lock on this cell phone holding cell. 
+	This will make focus just on talking to people in any meeting" 
+     
+    ],
+    "image": "chocolate-mint.svg"
+  },
+  
+"topProducts" : [
+  {
+    "productName" : "Umbrella Hat", 
+    "Price" : 8.99,
+    "origin" : "India", 
+    "description" : [
+      "You'll never have to hold an umbrella again with this hands-free hat to keep you dry." 
+     
+    ],
+    "image": "umbrella.svg"
+  },
+
+  
+"topProducts" : [
+  {
+    "productName" : "Finger Covers for Cheesy Food", 
+    "Price" : 12.24,
+    "origin" : "USA", 
+    "description" : [
+      "If you don't like cheese dust getting leftover on your fingers (even though that's the best part) you could always try these dishwasher safe finger guards." 
+     
+    ],
+    "image": "cheese.svg"
+  }
+
+  ]
+}
